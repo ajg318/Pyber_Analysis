@@ -20,4 +20,4 @@ Some recommendations that come from the results are:
 
 1. The amount of drivers sent to different city types should correlate to these results. There should be more drivers in urban areas vs. rural areas. 
 2. Cost of the rides should also correlate to the type of city. Urban trips should be more expensive than rural due to demand.
-3. Finally, it may be worth while to investigate why people use Pyber more often during certain times. For example, there was a spike in February. There may be something worth repeating that happened during that month 
+3. Finally, it may be worth while to investigate why people use Pyber more often during certain times. For example, there was a spike in February. There may be something worth repeating that happened during that month.
